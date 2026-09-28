@@ -1,6 +1,6 @@
 # **🎬 Case Study: The Netflix Data Engine**
 
-## **The Scenario :-)**
+## **The Scenario :-**
 
 Netflix doesn't just show you movies; it predicts what you want before you know it. This recommendation system is a perfect example of the **Data Lifecycle**.
 
