@@ -27,6 +27,7 @@ Break into small groups and answer the following. Use your knowledge of Structur
 * **Structured Data:** User ID, Movie Genre, Release Year.  
 * **Unstructured Data:** The movie thumbnails (images), the movie plot summary (text), the video files themselves.  
   * *Question: How might Netflix use the **Unstructured** data (thumbnails) to trick you into watching a movie?*
+  * Answer: New shows based on your preferences/latest watching series or shows from same actor/actress  
 
 ### **Part 3: The Algorithm (Analysis)**
 
