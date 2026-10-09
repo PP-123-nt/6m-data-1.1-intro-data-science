@@ -13,7 +13,6 @@ Break into small groups and answer the following. Use your knowledge of Structur
 *List at least 3 examples for each category that Netflix likely collects about you:*
 
 * **Explicit Data (Information you intentionally provide):** (e.g., Typing a search query, filling out your profile, giving a Thumbs up/down...)  
-    * Answer:
       1. language preference/subtitle setting
       2. search for a specific movie/drama such as Korean
       3. Movie/drama saved list
