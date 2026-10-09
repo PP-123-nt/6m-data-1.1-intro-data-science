@@ -18,6 +18,9 @@ Break into small groups and answer the following. Use your knowledge of Structur
       3. Movie/drama saved list
   
 * **Implicit Data (Behaviors observed in the background):** (e.g., Did you pause at a scary scene? Did you binge-watch 5 episodes? How fast did you scroll?)
+      1. Day and time of watching\
+      2. Devices used for watching\
+      3. Watching habits such as 2 episodes per day
 
 ### **Part 2: Structured vs. Unstructured**
 
