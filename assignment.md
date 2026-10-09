@@ -26,20 +26,20 @@ Break into small groups and answer the following. Use your knowledge of Structur
 
 * **Structured Data:** User ID, Movie Genre, Release Year.  
 * **Unstructured Data:** The movie thumbnails (images), the movie plot summary (text), the video files themselves.  
-  * *Question: How might Netflix use the **Unstructured** data (thumbnails) to trick you into watching a movie?*
-     Answer: New shows based on your preferences/latest watching series or shows from same actor/actress  
+  * *Question: How might Netflix use the **Unstructured** data (thumbnails) to trick you into watching a movie?*\
+   Answer: New shows based on your preferences/latest watching series or shows from same actor/actress  
 
 ### **Part 3: The Algorithm (Analysis)**
 
 * If User A watches "Breaking Bad" and "Better Call Saul".  
 * And User B watches "Breaking Bad".  
-* *What will the algorithm recommend to User B? Why?*
-* "Better Call Saul" recommendation based on similar preference
+* *What will the algorithm recommend to User B? Why?*\
+   Answer: "Better Call Saul" recommendation based on similar preference
 
 ### **Part 4: Ethics (The "Bubble")**
 
-* *Is it ethical for an algorithm to only show you things it knows you will like? Does this create a 'content bubble' that limits your exposure to new ideas?*
-* No as this narrow viewer's exposure to other type of shows | Yes if viewer only want to receive update on the similar type of shows
+* *Is it ethical for an algorithm to only show you things it knows you will like? Does this create a 'content bubble' that limits your exposure to new ideas?*\
+   Answer: No as this narrow viewer's exposure to other type of shows | Yes if viewer only want to receive update on the similar type of shows
 
 ## **💡Please Share Your Answers & Thoughts in Discord💡**
 
