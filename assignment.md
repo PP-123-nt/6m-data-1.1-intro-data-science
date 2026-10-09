@@ -14,9 +14,9 @@ Break into small groups and answer the following. Use your knowledge of Structur
 
 * **Explicit Data (Information you intentionally provide):** (e.g., Typing a search query, filling out your profile, giving a Thumbs up/down...)  
     * Answer:
-    * 1) language preference/subtitle setting
-    * 2) search for a specific movie/drama such as Korean
-      3) Movie/drama saved list
+    * 1. language preference/subtitle setting
+    * 2. search for a specific movie/drama such as Korean
+    * 3. Movie/drama saved list
   
 * **Implicit Data (Behaviors observed in the background):** (e.g., Did you pause at a scary scene? Did you binge-watch 5 episodes? How fast did you scroll?)
 
